@@ -283,3 +283,4 @@ elif page == "Stroke":
             st.error("⚠️ The person is likely to have **Stroke**.")
         else:
             st.success("✅ The person is not likely to have **Stroke**.")
+
