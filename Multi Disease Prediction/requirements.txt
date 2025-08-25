@@ -4,3 +4,7 @@ scikit-learn
 numpy
 pandas
 requests
+matplotlib
+joblib
+protobuf
+pyyaml
