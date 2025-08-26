@@ -1,4 +1,4 @@
-# 🩺 Multi-Disease-Prediction
+# 🩺 Multiple-Disease-Prediction-System
 
 This project is a Streamlit-based Machine Learning Web Application that predicts the likelihood of multiple diseases based on user-input health parameters. The system currently supports 6 disease predictions:
 
