@@ -8,7 +8,7 @@ This project is a Streamlit-based Machine Learning Web Application that predicts
 
 3. Parkinson’s Disease Prediction
 
-4. Breast Cancer Prediction
+4. Stroke Prediction
 
 5. Liver Disease Prediction
 
